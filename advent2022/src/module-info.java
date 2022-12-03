@@ -1,0 +1,2 @@
+module advent2022 {
+}
